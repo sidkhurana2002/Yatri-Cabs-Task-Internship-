@@ -25,9 +25,6 @@ Before you begin, make sure you have the following installed:
 
 3. **Configure MongoDB:**
 
-   - Create a MongoDB Atlas account: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-   - Replace the `MONGO_URI` in `config/db.js` with your MongoDB connection string.
-
 4. **Run the application:**
 
    npm start
